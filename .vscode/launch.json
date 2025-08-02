@@ -1,0 +1,105 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ouath2Application",
+            "request": "launch",
+            "mainClass": "com.example.ouath2.Ouath2Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "EurekaServerApplication",
+            "request": "launch",
+            "mainClass": "com.example.eureka.eureka_server.EurekaServerApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "EurekaServerApplication",
+            "request": "launch",
+            "mainClass": "eureka_server.EurekaServerApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "UserServiceApplication",
+            "request": "launch",
+            "mainClass": "user_service.UserServiceApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "JwtsecureApplication",
+            "request": "launch",
+            "mainClass": "JwtsecureApplication",
+            "projectName": "jwtsecure"
+        },
+        {
+            "type": "java",
+            "name": "ApiGatewayApplication",
+            "request": "launch",
+            "mainClass": "com.example.gateway.ApiGatewayApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ProductServiceApplication",
+            "request": "launch",
+            "mainClass": "product_service.ProductServiceApplication",
+            "projectName": "product_service"
+        },
+        {
+            "type": "java",
+            "name": "CartServiceApplication",
+            "request": "launch",
+            "mainClass": "cart_service.CartServiceApplication",
+            "projectName": "cart_service"
+        },
+        {
+            "type": "java",
+            "name": "UserServiceApplication",
+            "request": "launch",
+            "mainClass": "user_service.UserServiceApplication",
+            "projectName": "user_service"
+        },
+        {
+            "type": "java",
+            "name": "classy",
+            "request": "launch",
+            "mainClass": "classy",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "JwtsecureApplication",
+            "request": "launch",
+            "mainClass": "com.secure.jwtsecure.JwtsecureApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "SecurityApplication",
+            "request": "launch",
+            "mainClass": "com.Mohaideen.SecurityApplication",
+            "projectName": "Security"
+        },
+        {
+            "type": "java",
+            "name": "SecurityApplication",
+            "request": "launch",
+            "mainClass": "com.Mohaideen.Controller.SecurityApplication",
+            "projectName": "Security"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SecurityApplication<Security>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Mohaideen.Security.SecurityApplication",
+            "projectName": "Security",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
